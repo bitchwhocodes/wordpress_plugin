@@ -1,0 +1,17 @@
+.win8admin img
+{
+	background-color:#cccccc;
+	border:1px thin #cccccc;
+}
+
+.win8form
+{
+	width:500px;
+	border-bottom:1 px thin #cccccc;
+	padding-bottom:10px;
+}
+
+.win8admin a{
+	display:none;
+	width:150px;
+}
